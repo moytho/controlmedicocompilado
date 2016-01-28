@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/ControlMedicoBioNatural/WSEmpresa.asmx" hash="ffffffff96637db4" filehash="5391801a705" flags="130000" assembly="App_Code" type="WSEmpresa">
+    <filedeps>
+        <filedep name="/ControlMedicoBioNatural/WSEmpresa.asmx" />
+    </filedeps>
+</preserve>

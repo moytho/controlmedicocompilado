@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/ControlMedicoBioNatural/WSUsuario.asmx" hash="ffffffff96637db4" filehash="4019b49c6396" flags="130000" assembly="App_Code" type="WSUsuario">
+    <filedeps>
+        <filedep name="/ControlMedicoBioNatural/WSUsuario.asmx" />
+    </filedeps>
+</preserve>

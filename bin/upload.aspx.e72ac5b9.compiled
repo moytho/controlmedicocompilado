@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/ControlMedicoBioNatural/privado/upload.aspx" hash="fffffff22c5898a0" filehash="9b902ae8a470b3d7" flags="110000" assembly="App_Web_upload.aspx.e72ac5b9" type="ASP.privado_upload_aspx">
+    <filedeps>
+        <filedep name="/ControlMedicoBioNatural/privado/upload.aspx" />
+        <filedep name="/ControlMedicoBioNatural/privado/upload.aspx.vb" />
+    </filedeps>
+</preserve>

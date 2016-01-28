@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/ControlMedicoBioNatural/WSPartedelcuerpo.asmx" hash="ffffffff96637db4" filehash="27509f2aaa16" flags="130000" assembly="App_Code" type="WSPartedelcuerpo">
+    <filedeps>
+        <filedep name="/ControlMedicoBioNatural/WSPartedelcuerpo.asmx" />
+    </filedeps>
+</preserve>

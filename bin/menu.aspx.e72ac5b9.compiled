@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/ControlMedicoBioNatural/privado/menu.aspx" hash="fffffff22c5898a0" filehash="d3e0feb046ee527f" flags="110000" assembly="App_Web_menu.aspx.e72ac5b9" type="ASP.privado_menu_aspx">
+    <filedeps>
+        <filedep name="/ControlMedicoBioNatural/privado/include.html" />
+        <filedep name="/ControlMedicoBioNatural/privado/menu.aspx" />
+        <filedep name="/ControlMedicoBioNatural/privado/menu.aspx.vb" />
+    </filedeps>
+</preserve>

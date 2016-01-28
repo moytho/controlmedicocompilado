@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/ControlMedicoBioNatural/Default.aspx" hash="fffffff22c5898a0" filehash="9f97084eff0a2dbc" flags="110000" assembly="App_Web_default.aspx.cdcab7d2" type="ASP.default_aspx">
+    <filedeps>
+        <filedep name="/ControlMedicoBioNatural/Default.aspx" />
+        <filedep name="/ControlMedicoBioNatural/Default.aspx.vb" />
+    </filedeps>
+</preserve>

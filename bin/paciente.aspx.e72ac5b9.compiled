@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/ControlMedicoBioNatural/privado/paciente.aspx" hash="fffffff22c5898a0" filehash="b33ac50bc9af3fa8" flags="110000" assembly="App_Web_paciente.aspx.e72ac5b9" type="ASP.privado_paciente_aspx">
+    <filedeps>
+        <filedep name="/ControlMedicoBioNatural/privado/paciente.aspx" />
+        <filedep name="/ControlMedicoBioNatural/privado/paciente.aspx.vb" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/ControlMedicoBioNatural/WSPuesto.asmx" hash="ffffffff96637db4" filehash="3327791d6188" flags="130000" assembly="App_Code" type="WSPuesto">
+    <filedeps>
+        <filedep name="/ControlMedicoBioNatural/WSPuesto.asmx" />
+    </filedeps>
+</preserve>

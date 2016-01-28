@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/ControlMedicoBioNatural/privado/subirfoto.aspx" hash="fffffff22c5898a0" filehash="fb1a46cc9bbd1f13" flags="110000" assembly="App_Web_subirfoto.aspx.e72ac5b9" type="ASP.privado_subirfoto_aspx">
+    <filedeps>
+        <filedep name="/ControlMedicoBioNatural/privado/subirfoto.aspx" />
+        <filedep name="/ControlMedicoBioNatural/privado/subirfoto.aspx.vb" />
+    </filedeps>
+</preserve>
